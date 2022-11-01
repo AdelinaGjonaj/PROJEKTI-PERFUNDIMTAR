@@ -1,0 +1,25 @@
+.butona {
+   
+    text-align: right;
+    padding: 0;
+    margin: 0; 
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+.h2 {
+     font-size: 12px;   
+     font-weight: bold;
+     color: black;
+     margin: 0;
+     padding: 0;
+     padding-bottom: 5px;
+}
+.contactus {
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+}

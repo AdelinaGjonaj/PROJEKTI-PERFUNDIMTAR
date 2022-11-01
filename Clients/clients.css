@@ -1,0 +1,98 @@
+
+body {
+    background-color:orangered;
+}
+.logo {
+    width: 71px;
+    
+    margin: auto; 
+}
+.textcolor1 {
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px; 
+        color: orangered;
+        text-shadow: 2px 2px 4px #000000;
+    
+}
+.textcolor2 {
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    color: orangered;
+
+}
+
+.textcolor4 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+    text-shadow: 2px 2px 4px #000000;
+}
+.textcolor5 {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+
+}
+.textcolor6 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+.textcolor7 {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+
+}
+.textcolor8 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+.textcolor9 {
+
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+
+}
+.textcolor10 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+    text-shadow: 2px 2px 4px #000000;
+}
+.textcolor11 {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+  
+}
+.textcolor12 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+    text-shadow: 2px 2px 4px #000000;
+}
+.textcolor13 {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: orangered;
+
+}

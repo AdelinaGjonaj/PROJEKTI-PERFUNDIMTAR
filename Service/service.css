@@ -1,0 +1,113 @@
+body {
+    font-family: sans-serif;
+}
+#nav-bar {
+
+    position: sticky;
+    top: 100px;
+    z-index: 10
+}
+.logo {
+    width: 70px;
+    
+    margin: auto; 
+}
+.textcolor3 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    color: orangered;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+
+.textcolor4 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+}
+.textcolor5 {
+    text-align: left;
+     margin-top: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+
+}   
+.textcolor6 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+
+}
+.textcolor7 {
+    text-align: left;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   color: orangered;
+
+
+}
+.textcolor8 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+   
+}
+.textcolor9 {
+    text-align: left;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   color: orangered;
+   
+}
+
+.textcolor10 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+
+}
+.textcolor11 {
+    text-align: left;
+    margin-top: 20px;
+   margin-bottom: 20px;
+   color: orangered;
+   
+  
+}
+.textcolor12 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+
+}
+.textcolor13 {
+    text-align: left;
+    margin-top: 20px;  
+    margin-bottom: 20px;
+    color: orangered;
+}
+.textcolor14 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+}
+.textcolor15 {
+    text-align: left;
+    margin-top: 20px;  
+    margin-bottom: 20px;
+    color: orangered;
+
+}
+.textcolor16 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orangered;
+}

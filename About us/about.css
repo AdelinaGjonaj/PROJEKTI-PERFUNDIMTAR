@@ -1,0 +1,10 @@
+
+body {
+    font-family: sans-serif;
+}
+#nav-bar {
+
+    position: sticky;
+    top: 100px;
+    z-index: 10
+}
