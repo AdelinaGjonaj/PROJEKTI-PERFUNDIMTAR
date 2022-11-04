@@ -1,12 +1,4 @@
-body {
-    font-family: sans-serif;
-}
-#nav-bar {
 
-    position: sticky;
-    top: 100px;
-    z-index: 10
-}
 .logo {
     width: 70px;
     
@@ -26,6 +18,7 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     color: orangered;
+    
 }
 .textcolor5 {
     text-align: left;

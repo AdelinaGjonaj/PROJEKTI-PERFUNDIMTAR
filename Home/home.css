@@ -22,3 +22,10 @@
 }
 
 
+.container-fluid{
+    background-color: orangered;
+}
+.body1 {
+    padding: 0px;
+background-color: white;
+}
