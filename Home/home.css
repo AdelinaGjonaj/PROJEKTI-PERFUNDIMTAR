@@ -29,13 +29,14 @@
     padding: 0px;
 background-color: white;
 }
+
 .footer {
     position: block;
    width: 100%;
    left: 0;
    bottom: 0;
-   color: black;
+   color: white;
    text-align: center;
-   background-color:  white;
+   background-color:  black;
   }
 
