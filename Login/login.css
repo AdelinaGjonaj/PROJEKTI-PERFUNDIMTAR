@@ -3,15 +3,15 @@
     
     margin: auto; 
 }
- body{
+body {
   margin: 0;
   padding: 0;
   background-size: cover;
   background-repeat: no-repeat;
   font-family : Verdana,Tahoma, sans-serif;
 }
- 
-.box{
+
+.box {
   width: 380px;
   height: 500px;
   background-color:rgba(0, 0, 0, 0.7);
@@ -23,7 +23,7 @@
   flex-direction: column;
 }
 
- .box img{
+.box img {
 width:100px;
   margin-top:-50px ;
 }
@@ -86,7 +86,7 @@ transition: right 0.5s;
 
 .login a{
   text-decoration: none;
-  color: blue;
+  color: #ffffff;
   font-size: 15px;
   text-align: center;
   cursor: pointer;
@@ -100,7 +100,7 @@ right: 100%;
 input[type=text], input[type=password], input[type=email]{
 display:block;
   position: relative;
-border: 4px solid orangered;
+border: 4px solid #ffffff;
 padding: 12px;
   margin-bottom: 15px;
   width: 100%;
@@ -114,7 +114,7 @@ input[type=text]:hover,  input[type=password]:hover, input[type=email]:hover{
 
 }
 
-input[type=submit]{
+input[type=submit] {
   display:block;
   position: relative;
   border: 3px solid orangered;
@@ -138,7 +138,7 @@ input[type=submit]:hover{
 input[type=checkbox]{
   background-color:orangered;
 }
-#check{
+#check {
   margin-top: 10px;
   text-align: left;
   color: #ffffff;

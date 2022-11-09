@@ -5,8 +5,8 @@
    <title>SMILE AGENCY</title>
    <meta charset="utf-8" />
    <meta name="viewport" content="width=device-width, initial-scale=1" />
-   <link rel="stylesheet" href="login.css">
-   <script src="login.js"></script>
+   <link rel="stylesheet" href="signup.css">
+   <script src="signup.js"></script>
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -34,9 +34,8 @@
                <li><a href="C:\Users\hamez\Desktop\PROJEKTI PERFUNDIMTAR\Clients\clients.html">CLIENTS</a></li>
                <li><a href="C:\Users\hamez\Desktop\PROJEKTI PERFUNDIMTAR\About us\About.html">ABOUT US</a></li>
                <li><a href="C:\Users\hamez\Desktop\PROJEKTI PERFUNDIMTAR\Contact Us\contact.html">CONTACT</a></li>
-               <li class="active"><a
-                     href="C:\Users\hamez\Desktop\PROJEKTI PERFUNDIMTAR\Login\login.html">LOGIN</a></li>
-             <li><a href="C:\Users\hamez\Desktop\PROJEKTI PERFUNDIMTAR\signup\signup.html">SIGNUP</a></li>
+               <li><a href="C:\Users\hamez\Desktop\PROJEKTI PERFUNDIMTAR\Login\login.html">LOGIN</a></li>
+             <li class="active"><a href="C:\Users\hamez\Desktop\PROJEKTI PERFUNDIMTAR\signup\signup.html">SIGNUP</a></li>
 
             </ul>
          </div>
@@ -45,21 +44,16 @@
    <div class="box">
     <div class="page">
           <div class="header">
-              <a id="login" class="active" href="#login">login</a>
+              <a id="signup" href="#signup">signup</a>
           </div>
           <div id="errorMsg"></div>
           <div class="content">
-              <form class="login" name="loginForm" onsubmit="return validateLoginForm()" method="POST">
-                  <input type="text" name="name" id="logName" placeholder="Username">
-                  <input type="password" name="password" id="logPassword" placeholder="Password">
-                  <div id="check">
-                      <input type="checkbox" id="remember">
-                      <label for="remember">Remember me</label>
-                  </div>
-                  <br><br>
-                   <input type="submit" value="Login">
-                  <a href="#">Forgot Password?</a> 
-              </form>
+              <form class="signup" name="signupForm" onsubmit="return validateSignupForm()" method="POST">
+                  <input type="email" name="email" id="signEmail" placeholder="Email">
+                  <input type="text" name="name" id="signName" placeholder="Username">
+                  <input type="password" name="password" id="signPassword" placeholder="Password"><br>
+                  <input type="submit" value="SignUp">
+              </form> 
           </div>
       </div>
   </div>
